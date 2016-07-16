@@ -49,3 +49,5 @@ tags: [database]
 
 ### Reference
 * [数据库中的DML，DCL，DDL分别是那些操作？](http://liyuan2005.iteye.com/blog/209218)
+* [数据库原理一](http://blog.jobbole.com/100349)
+* [数据库原理二](http://blog.jobbole.com/100349)
