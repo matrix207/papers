@@ -1,4 +1,5 @@
 ---
+layout: post
 title: speed up c++ compilation
 date: 2016-04-24 16:07:15
 category: language

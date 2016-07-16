@@ -1,4 +1,5 @@
 ---
+layout: post
 title: understand gcc assembly output
 date: 2016-04-24 19:02:22
 description: "understand assembly helps to optimize performance"

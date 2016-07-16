@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 使用IWYU整理头文件引用
 date: 2016-04-27 00:14:26
 category: program
