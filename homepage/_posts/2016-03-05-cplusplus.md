@@ -6,6 +6,12 @@ category: language
 tags: [c++]
 ---
 
+### pointer vs reference
+指针参数一般情况下要检查是否为空指针，如果传入的参数不可能为空指针，使用引用更好。
+因为一来避免了空指针检查，而来可能产生更好的代码(有何凭证?)
+
+ref <https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#f60-prefer-t-over-t-when-no-argument-is-a-valid-option>
+
 ### Books
 * [C++FAQS](http://www.parashift.com/c++-faq-lite/)
 * Junior
